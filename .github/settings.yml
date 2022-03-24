@@ -1,0 +1,8 @@
+---
+#
+# Ansible managed
+#
+repository:
+  description: Filebeat for Linux.
+  homepage: https://buluma.github.io/
+  topics: web, system, monitoring, elasticsearch, logging, filebeat, ansible, molecule, tox, playbook, hacktoberfest
