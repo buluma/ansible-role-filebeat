@@ -1,14 +1,13 @@
 ---
 dependencies: []
-
 galaxy_info:
-  role-name: filebeat
-  namespace: buluma
   author: Michael Buluma
+  namespace: buluma
+  role_name: filebeat
   description: Filebeat for Linux.
-  company: ShadowNet
-  license: "license (Apache-2.0)"
-  min_ansible_version: 2.4
+  license: Apache-2.0
+  company: none
+  min_ansible_version: "2.10"
   platforms:
     - name: EL
       versions:
