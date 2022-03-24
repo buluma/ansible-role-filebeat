@@ -34,10 +34,10 @@ This example is taken from `molecule/default/converge.yml` and is tested on each
       when: ansible_distribution == 'Ubuntu'
 
   roles:
-    - role: geerlingguy.java
-    - role: geerlingguy.elasticsearch
-    - role: geerlingguy.logstash
-    - role: geerlingguy.filebeat
+    - role: buluma.java
+    - role: buluma.elasticsearch
+    - role: buluma.logstash
+    - role: buluma.filebeat
 ```
 
 
