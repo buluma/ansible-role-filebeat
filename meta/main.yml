@@ -2,7 +2,7 @@
 dependencies: []
 
 galaxy_info:
-  role_name: filebeat
+  role-name: filebeat
   author: Michael Buluma
   description: Filebeat for Linux.
   company: ShadowNet
