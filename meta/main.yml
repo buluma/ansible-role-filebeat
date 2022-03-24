@@ -3,6 +3,7 @@ dependencies: []
 
 galaxy_info:
   role-name: filebeat
+  namespace: buluma
   author: Michael Buluma
   description: Filebeat for Linux.
   company: ShadowNet
