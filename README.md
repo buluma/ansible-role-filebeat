@@ -115,7 +115,7 @@ This role has been tested on these [container images](https://hub.docker.com/u/b
 |debian|all|
 |ubuntu|all|
 
-The minimum version of Ansible required is 2.4, tests have been done to:
+The minimum version of Ansible required is 2.10, tests have been done to:
 
 - The previous version.
 - The current version.
@@ -127,7 +127,7 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 ## [License](#license)
 
-license (Apache-2.0)
+Apache-2.0
 
 ## [Author Information](#author-information)
 
