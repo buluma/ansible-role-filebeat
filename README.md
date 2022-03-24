@@ -87,6 +87,15 @@ filebeat_elastic_cloud_password: ""
 
 - pip packages listed in [requirements.txt](https://github.com/buluma/ansible-role-filebeat/blob/main/requirements.txt).
 
+## [Status of used roles](#status-of-requirements)
+
+The following roles are used to prepare a system. You can prepare your system in another way.
+
+| Requirement | GitHub | GitLab |
+|-------------|--------|--------|
+|[buluma.java](https://galaxy.ansible.com/buluma/java)|[![Build Status GitHub](https://github.com/buluma/ansible-role-java/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-java/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-java/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-java)|
+|[buluma.elasticsearch](https://galaxy.ansible.com/buluma/elasticsearch)|[![Build Status GitHub](https://github.com/buluma/ansible-role-elasticsearch/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-elasticsearch/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-elasticsearch/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-elasticsearch)|
+|[buluma.logstash](https://galaxy.ansible.com/buluma/logstash)|[![Build Status GitHub](https://github.com/buluma/ansible-role-logstash/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-logstash/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-logstash/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-logstash)|
 
 ## [Context](#context)
 
