@@ -46,7 +46,6 @@ This example is taken from `molecule/default/converge.yml` and is tested on each
 The default values for the variables are set in `defaults/main.yml`:
 ```yaml
 ---
-# defaults file for ansible-role-filebeat
 filebeat_version: 7.x
 filebeat_package: filebeat
 filebeat_package_state: present
