@@ -23,6 +23,6 @@
 
   roles:
     - role: buluma.java
-    - role: buluma.elasticsearch
+    - role: robertdebock.elasticsearch
     - role: buluma.logstash
     - role: buluma.filebeat
