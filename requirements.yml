@@ -1,6 +1,6 @@
 ---
 roles:
   - name: buluma.java
-  - name: geerlingguy.elasticsearch
+  - name: robertdebock.elasticsearch
   - name: buluma.logstash
 collections:

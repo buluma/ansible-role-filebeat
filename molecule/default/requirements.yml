@@ -1,4 +1,4 @@
 ---
 - src: buluma.java
-- src: geerlingguy.elasticsearch
+- src: robertdebock.elasticsearch
 - src: buluma.logstash
