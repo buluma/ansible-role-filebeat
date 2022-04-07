@@ -16,7 +16,7 @@
       package: name=curl state=present
 
     - name: Set the java_packages variable (Ubuntu).
-      set_fact:
+      ansible.builtin.set_fact:
         java_packages:
           - openjdk-8-jdk
       when: ansible_distribution == 'Ubuntu'
