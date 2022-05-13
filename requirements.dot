@@ -1,0 +1,13 @@
+digraph PhiloDilemma {
+  label = "Michael Buluma" ;
+  overlap=false
+  {
+    "filebeat" [fillcolor=yellow style=filled penwidth=3]
+    "buluma.java" [fillcolor=green style=filled]
+    "robertdebock.elasticsearch" [fillcolor=green style=filled]
+    "buluma.logstash" [fillcolor=green style=filled]
+  }
+  "filebeat" -> "buluma.java"
+  "filebeat" -> "robertdebock.elasticsearch"
+  "filebeat" -> "buluma.logstash"
+}
