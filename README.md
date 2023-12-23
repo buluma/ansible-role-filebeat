@@ -2,9 +2,9 @@
 
 Filebeat for Linux.
 
-|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-filebeat/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-filebeat/actions/workflows/molecule.yml)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-filebeat/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-filebeat)|[![downloads](https://img.shields.io/ansible/role/d/4707)](https://galaxy.ansible.com/buluma/filebeat)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-filebeat.svg)](https://github.com/buluma/ansible-role-filebeat/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-filebeat.svg)](https://github.com/buluma/ansible-role-filebeat/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-filebeat.svg)](https://github.com/buluma/ansible-role-filebeat/pulls/)|
+|GitHub|Version|Issues|Pull Requests|
+|------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-filebeat/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-filebeat/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-filebeat.svg)](https://github.com/buluma/ansible-role-filebeat/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-filebeat.svg)](https://github.com/buluma/ansible-role-filebeat/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-filebeat.svg)](https://github.com/buluma/ansible-role-filebeat/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -93,11 +93,11 @@ filebeat_elastic_cloud_password: ""
 
 The following roles are used to prepare a system. You can prepare your system in another way.
 
-| Requirement | GitHub | GitLab |
+| Requirement | GitHub | Version |
 |-------------|--------|--------|
-|[buluma.java](https://galaxy.ansible.com/buluma/java)|[![Build Status GitHub](https://github.com/buluma/ansible-role-java/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-java/actions)|[![Build Status GitLab](https://gitlab.com/shadowwalker/ansible-role-java/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-java)|
-|[robertdebock.elasticsearch](https://galaxy.ansible.com/buluma/robertdebock.elasticsearch)|[![Build Status GitHub](https://github.com/buluma/robertdebock.elasticsearch/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/robertdebock.elasticsearch/actions)|[![Build Status GitLab](https://gitlab.com/shadowwalker/robertdebock.elasticsearch/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/robertdebock.elasticsearch)|
-|[buluma.logstash](https://galaxy.ansible.com/buluma/logstash)|[![Build Status GitHub](https://github.com/buluma/ansible-role-logstash/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-logstash/actions)|[![Build Status GitLab](https://gitlab.com/shadowwalker/ansible-role-logstash/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-logstash)|
+|[buluma.java](https://galaxy.ansible.com/buluma/java)|[![Build Status GitHub](https://github.com/buluma/ansible-role-java/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-java/actions)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-java.svg)](https://github.com/shadowwalker/ansible-role-java)|
+|[robertdebock.elasticsearch](https://galaxy.ansible.com/buluma/robertdebock.elasticsearch)|[![Build Status GitHub](https://github.com/buluma/robertdebock.elasticsearch/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/robertdebock.elasticsearch/actions)|[![Version](https://img.shields.io/github/release/buluma/robertdebock.elasticsearch.svg)](https://github.com/shadowwalker/robertdebock.elasticsearch)|
+|[buluma.logstash](https://galaxy.ansible.com/buluma/logstash)|[![Build Status GitHub](https://github.com/buluma/ansible-role-logstash/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-logstash/actions)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-logstash.svg)](https://github.com/shadowwalker/ansible-role-logstash)|
 
 ## [Context](#context)
 
@@ -137,7 +137,6 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 [Michael Buluma](https://buluma.github.io/)
 
-Please consider [sponsoring me](https://github.com/sponsors/buluma).
 
 ### [Special Thanks](#special-thanks)
 
