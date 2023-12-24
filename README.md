@@ -95,9 +95,9 @@ The following roles are used to prepare a system. You can prepare your system in
 
 | Requirement | GitHub | Version |
 |-------------|--------|--------|
-|[buluma.java](https://galaxy.ansible.com/buluma/java)|[![Build Status GitHub](https://github.com/buluma/ansible-role-java/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-java/actions)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-java.svg)](https://github.com/shadowwalker/ansible-role-java)|
-|[robertdebock.elasticsearch](https://galaxy.ansible.com/buluma/robertdebock.elasticsearch)|[![Build Status GitHub](https://github.com/buluma/robertdebock.elasticsearch/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/robertdebock.elasticsearch/actions)|[![Version](https://img.shields.io/github/release/buluma/robertdebock.elasticsearch.svg)](https://github.com/shadowwalker/robertdebock.elasticsearch)|
-|[buluma.logstash](https://galaxy.ansible.com/buluma/logstash)|[![Build Status GitHub](https://github.com/buluma/ansible-role-logstash/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-logstash/actions)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-logstash.svg)](https://github.com/shadowwalker/ansible-role-logstash)|
+|[buluma.java](https://galaxy.ansible.com/buluma/java)|[![Ansible Molecule](https://github.com/buluma/ansible-role-java/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-java/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-java.svg)](https://github.com/shadowwalker/ansible-role-java)|
+|[robertdebock.elasticsearch](https://galaxy.ansible.com/buluma/robertdebock.elasticsearch)|[![Ansible Molecule](https://github.com/buluma/robertdebock.elasticsearch/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/robertdebock.elasticsearch/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/robertdebock.elasticsearch.svg)](https://github.com/shadowwalker/robertdebock.elasticsearch)|
+|[buluma.logstash](https://galaxy.ansible.com/buluma/logstash)|[![Ansible Molecule](https://github.com/buluma/ansible-role-logstash/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-logstash/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-logstash.svg)](https://github.com/shadowwalker/ansible-role-logstash)|
 
 ## [Context](#context)
 
