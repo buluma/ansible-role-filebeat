@@ -4,6 +4,10 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-filebeat/compare/v0.1.0...HEAD)
 
+**Closed issues:**
+
+- Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#11](https://github.com/buluma/ansible-role-filebeat/issues/11)
+
 **Merged pull requests:**
 
 - Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.4 to 1.0.5 [\#2](https://github.com/buluma/ansible-role-filebeat/pull/2) ([dependabot[bot]](https://github.com/apps/dependabot))
